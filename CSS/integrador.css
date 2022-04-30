@@ -28,4 +28,10 @@
     bottom: 9rem;
     right: 12rem;
   }
-  
+  u {    
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+}
+#piepag{
+    background: rgb(29, 57, 71);
+}
