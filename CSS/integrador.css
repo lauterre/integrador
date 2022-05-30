@@ -35,3 +35,13 @@
 #piepag{
     background-color: rgb(29, 57, 71);
 }
+#venta{
+    margin-bottom: 0;
+}
+#textotal{
+    background-color: lightblue;
+    border: 1px solid;
+    border-color: rgb(158, 218, 238);
+    border-radius: 5px;
+    padding: 1rem;
+}
